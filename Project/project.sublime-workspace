@@ -15,49 +15,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Gruntfile.js",
-			"settings":
-			{
-				"buffer_size": 1769,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "package.json",
-			"settings":
-			{
-				"buffer_size": 493,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 6448,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 690,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "README.md",
-			"settings":
-			{
-				"buffer_size": 1655,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -102,19 +59,19 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Apps/working/Udacity/ND004/WebDocs/ud882/Project-Part-1-Start",
-		"/C/Apps/working/Udacity/ND004/WebDocs/ud882/Project-Part-1-Start/css",
-		"/C/Apps/working/Udacity/ND004/WebDocs/ud882/Project-Part-1-Start/images_src",
-		"/C/Apps/working/Udacity/ND004/WebDocs/ud882/Project-Part-1-Start/images_src/fixed"
-	],
 	"file_history":
 	[
-		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/WebDocs/ud893/downloads/RWDF L5 Start/Start/index.html",
-		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/WebDocs/ud893/downloads/RWDF L5 Start/Start/main.css",
-		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/WebDocs/ud893/downloads/RWDF L5 Start/Start/responsive.css",
-		"/C/Apps/working/Udacity/ND004/WebDocs/ud882/Project-Part-1-Start/README.sublime-project",
+		"/C/apps/working/udacity/nd004/ud882/project/README.md",
+		"/C/apps/working/udacity/nd004/ud882/project/css/main.css",
+		"/C/apps/working/udacity/nd004/ud882/project/index.html",
+		"/C/apps/working/udacity/nd004/ud882/project/package.json",
+		"/C/apps/working/udacity/nd004/ud882/project/Gruntfile.js",
+		"/C/apps/working/udacity/nd004/ud882/project/project.sublime-worksapce",
+		"/C/apps/working/udacity/nd004/ud882/project/project.sublime-project",
+		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/ud893/downloads/RWDF L5 Start/Start/index.html",
+		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/ud893/downloads/RWDF L5 Start/Start/main.css",
+		"/C/Users/js646y/Documents/Projects-NB/Udacity/ND004/ud893/downloads/RWDF L5 Start/Start/responsive.css",
+		"/C/Apps/working/Udacity/ND004/ud882/Project/project.sublime-project",
 		"/C/Apps/working/GitHub/grunt-workflow-guide/src/js/script1.js",
 		"/C/Apps/working/GitHub/grunt-workflow-guide/dist/css/style.css",
 		"/C/Apps/working/GitHub/grunt-workflow-guide/src/sass/style.scss",
@@ -164,155 +121,8 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Gruntfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1769,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								161,
-								161
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 493,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6448,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6448,
-								6448
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1271.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "css/main.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 690,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								574,
-								574
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 150.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1655,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 171.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -352,7 +162,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "README.sublime-project",
+	"project": "project.sublime-project",
 	"replace":
 	{
 		"height": 64.0
