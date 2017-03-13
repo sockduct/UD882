@@ -52,3 +52,23 @@ figcaption {
     font-style: italic;
     color: darkmagenta;
 }
+
+.smiley {
+    font-weight: bold;
+    font-size: 34px;
+}
+
+header {
+    margin: 0 auto;
+}
+
+.header-image {
+    display: inline-block;
+    max-width: 4vw;
+    float: left;
+}
+
+footer {
+    margin: 0 auto;
+    text-align: center;
+}
