@@ -27,7 +27,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7973,
+				"buffer_size": 10224,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -37,6 +37,15 @@
 			"settings":
 			{
 				"buffer_size": 1469,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 1815,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -92,9 +101,9 @@
 	],
 	"file_history":
 	[
+		"/C/apps/working/udacity/nd004/ud882/project/index.html",
 		"/C/apps/working/udacity/nd004/ud882/project/README.md",
 		"/C/apps/working/udacity/nd004/ud882/project/css/main.css",
-		"/C/apps/working/udacity/nd004/ud882/project/index.html",
 		"/C/apps/working/udacity/nd004/ud882/project/package.json",
 		"/C/apps/working/udacity/nd004/ud882/project/Gruntfile.js",
 		"/C/apps/working/udacity/nd004/ud882/project/project.sublime-worksapce",
@@ -161,15 +170,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7973,
+						"buffer_size": 10224,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7379,
-								7379
+								1264,
+								1264
 							]
 						],
 						"settings":
@@ -179,7 +188,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 513.0,
+						"translation.y": 1254.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -209,10 +218,40 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 684.0,
+						"translation.y": 912.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
