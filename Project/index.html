@@ -26,7 +26,7 @@
     <table class="headsection">
       <tr>
         <td>
-          <img src="images/fixed/blog-icon-300.svg" alt="icon for blog" class="header-image">
+          <!--img src="images/fixed/blog-icon-300.svg" alt="icon for blog" class="header-image"-->
         </td>
         <td>
           <h1>My responsive blog</h1>
@@ -38,7 +38,15 @@
   <article>
     <div class="blogsection">
       <figure>
-        <img src="images/still_life-large.jpg" alt="still life">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/still_life-800.jpg 1x, images/still_life-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/still_life-600.jpg 1x, images/still_life-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/still_life-400.jpg 1x, images/still_life-800.jpg 2x">
+          <img src="images/still_life-400.jpg" alt="still life">
+        </picture>
         <figcaption>Still Life</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -51,7 +59,13 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/horses-large.jpg" alt="horses">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/horses-800.jpg 1x, images/horses-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/horses_medcrop.jpg 1x, images/horses_medcrop.jpg 2x">
+          <img src="images/horses_smacrop.jpg" alt="horses">
+        </picture>
         <figcaption>Horses</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -62,7 +76,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/volt-large.jpg" alt="volt">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/volt-800.jpg 1x, images/volt-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/volt-600.jpg 1x, images/volt-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/volt-400.jpg 1x, images/volt-800.jpg 2x">
+          <img src="images/volt-400.jpg" alt="volt">
+        </picture>
         <figcaption>Volt</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -72,7 +94,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/cockatoos-large.jpg" alt="cockatoos">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/cockatoos-800.jpg 1x, images/cockatoos-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/cockatoos-600.jpg 1x, images/cockatoos-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/cockatoos-400.jpg 1x, images/cockatoos-800.jpg 2x">
+          <img src="images/cockatoos-400.jpg" alt="cockatoos">
+        </picture>
         <figcaption>Cockatoos</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -85,7 +115,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/postcard-large.jpg" alt="postcard">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/postcard-800.jpg 1x, images/postcard-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/postcard-600.jpg 1x, images/postcard-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/postcard-400.jpg 1x, images/postcard-800.jpg 2x">
+          <img src="images/postcard-400.jpg" alt="postcard">
+        </picture>
         <figcaption>Postcard</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -95,7 +133,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/grasshopper-large.jpg" alt="grasshopper">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/grasshopper-800.jpg 1x, images/grasshopper-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/grasshopper-600.jpg 1x, images/grasshopper-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/grasshopper-400.jpg 1x, images/grasshopper-800.jpg 2x">
+          <img src="images/grasshopper-400.jpg" alt="grasshopper">
+        </picture>
         <figcaption>Grasshopper</figcaption>
       </figure>
         <div class="blogsectionp">
@@ -105,7 +151,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/sfo-large.jpg" alt="sfo">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/sfo-800.jpg 1x, images/sfo-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/sfo-600.jpg 1x, images/sfo-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/sfo-400.jpg 1x, images/sfo-800.jpg 2x">
+          <img src="images/sfo-400.jpg" alt="sfo">
+        </picture>
         <figcaption>SFO</figcaption>
       </figure>
       <div class="blogsectionp">
@@ -115,7 +169,15 @@
 
     <div class="blogsection">
       <figure>
-        <img src="images/rosella-large.jpg" alt="rosella">
+        <picture>
+          <source media="(min-width: 601px)"
+            srcset="images/rosella-800.jpg 1x, images/rosella-1600.jpg 2x">
+          <source media="(min-width: 401px)"
+            srcset="images/rosella-600.jpg 1x, images/rosella-1200.jpg 2x">
+          <source media="(max-width: 400px)"
+            srcset="images/rosella-400.jpg 1x, images/rosella-800.jpg 2x">
+          <img src="images/rosella-400.jpg" alt="rosella">
+        </picture>
         <figcaption>Rosella</figcaption>
       </figure>
       <div class="blogsectionp">

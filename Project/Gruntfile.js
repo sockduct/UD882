@@ -15,17 +15,20 @@ module.exports = function(grunt) {
           /* im = ImageMagick, gm = GraphicsMagick, gm = default */
           engine: 'im',
           sizes: [{
-            name: 'small',
-            width: 320,
-            quality: 65
+            width: 400,
+            quality: 60
           }, {
-            name: 'medium',
-            width: 640,
-            quality: 65
-          },{
-            name: 'large',
-            width: 1024,
-            quality: 65
+            width: 600,
+            quality: 60
+          }, {
+            width: 800,
+            quality: 60
+          }, {
+            width: 1200,
+            quality: 60
+          }, {
+            width: 1600,
+            quality: 60
           }]
         },
 
